@@ -1,4 +1,5 @@
 import React from 'react';
+import './HomePage.styles.scss'
 
 //functional because we don't need to store state nor do we need lifecycle methods at the moment. 
 
